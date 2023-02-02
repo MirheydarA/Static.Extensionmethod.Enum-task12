@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\bin\Debug\net6.0\Static.Extensionmethod.Enum.exe
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\bin\Debug\net6.0\Static.Extensionmethod.Enum.deps.json
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\bin\Debug\net6.0\Static.Extensionmethod.Enum.runtimeconfig.json
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\bin\Debug\net6.0\Static.Extensionmethod.Enum.dll
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\bin\Debug\net6.0\Static.Extensionmethod.Enum.pdb
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\Static.Extensionmethod.Enum.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\Static.Extensionmethod.Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\Static.Extensionmethod.Enum.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\Static.Extensionmethod.Enum.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\Static.Extensionmethod.Enum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\Static.Extensionmethod.Enum.dll
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\refint\Static.Extensionmethod.Enum.dll
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\Static.Extensionmethod.Enum.pdb
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\Static.Extensionmethod.Enum.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Static.Extensionmethod.Enum\obj\Debug\net6.0\ref\Static.Extensionmethod.Enum.dll
